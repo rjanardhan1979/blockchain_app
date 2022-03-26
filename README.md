@@ -1,3 +1,5 @@
+# Inspired by the excellent Anders Brownworth tutorial on youtube https://www.youtube.com/watch?v=_160oMzblY8
+
 # blockchain_app
 
 ## Project setup
